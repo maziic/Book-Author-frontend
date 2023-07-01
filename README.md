@@ -34,4 +34,4 @@ npm start
 
 ## Credits
 
-Developer : [Neaz Mahmud](https://github.com/maziic)
+Developer : [Maged Mohamed](https://github.com/maziic)
